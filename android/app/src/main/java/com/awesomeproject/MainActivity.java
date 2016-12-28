@@ -3,6 +3,7 @@ package com.awesomeproject;
 import com.facebook.react.ReactActivity;
 
 public class MainActivity extends ReactActivity {
+  //just a change
 
     /**
      * Returns the name of the main component registered from JavaScript.
